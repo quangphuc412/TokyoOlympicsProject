@@ -1,0 +1,20 @@
+2024-Nov-27-14:10:23 : Preliminaries complete. Initiating ETL process
+2024-Nov-27-14:10:24 : TeamsDf Data extraction complete. Initiating Transformation process
+2024-Nov-27-14:10:24 : CoachesDf Data extraction complete. Initiating Transformation process
+2024-Nov-27-14:10:25 : AthletesDf Data extraction complete. Initiating Transformation process
+2024-Nov-27-14:10:25 : GenderDf Data extraction complete. Initiating Transformation process
+2024-Nov-27-14:10:25 : MedalsDf Data extraction complete. Initiating Transformation process
+2024-Nov-27-14:11:10 : TeamsDf Data transformation complete. Initiating Loading process
+2024-Nov-27-14:11:16 : CoachesDf Data transformation complete. Initiating Loading process
+2024-Nov-27-14:11:24 : AthletesDf Data transformation complete. Initiating Loading process
+2024-Nov-27-14:11:29 : GenderDf Data transformation complete. Initiating Loading process
+2024-Nov-27-14:11:34 : MedalsDf Data transformation complete. Initiating Loading process
+2024-Nov-27-14:11:43 : TeamsDf Data saved to CSV file
+2024-Nov-27-14:11:46 : CoachesDf Data saved to CSV file
+2024-Nov-27-14:11:48 : AthletesDf Data saved to CSV file
+2024-Nov-27-14:11:50 : GenderDf Data saved to CSV file
+2024-Nov-27-14:11:52 : MedalDf Data saved to CSV file
+2024-Nov-27-14:41:53 : TeamsDf Data transformation for SQL Server complete. Initiating Loading process
+2024-Nov-27-14:42:01 : CoachesDf Data transformation for SQL Server complete. Initiating Loading process
+2024-Nov-27-14:42:09 : AthletesDf Data transformation for SQL Server complete. Initiating Loading process
+2024-Nov-27-14:42:13 : MedalsDf Data transformation for SQL Server complete. Initiating Loading process
